@@ -1,6 +1,8 @@
+// Add style and radius of magnitude of earthquake
+
 // 1.  Add console.log to check to see if our code is working.
 console.log("working");
-// add style and radius of magnitude of earthquake
+
 // 2. add tile layer 
 
 let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
