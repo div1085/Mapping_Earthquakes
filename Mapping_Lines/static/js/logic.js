@@ -25,7 +25,7 @@ let line = [
     [43.6777, -79.6248],
     [40.6413, -73.7781]
 ];
-// Create a polyline using the line coordinates and make the line yellow.
+// Create a polyline using the line coordinates and make the line dashed blue color 
 L.polyline(line, {
     color: "blue",
     weight: 10,
